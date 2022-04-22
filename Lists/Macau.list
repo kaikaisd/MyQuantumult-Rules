@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,*.hangseng.com,Macau
 DOMAIN-SUFFIX,*.hsbc.com.mo,Macau
 DOMAIN-SUFFIX,*.cgbchina.mo.cn,Macau
 DOMAIN-SUFFIX,*.antbank.mo,Macau
+DOMAIN-SUFFIX,3debspay.boc.cn,Macau
 # > Schools
 DOMAIN-SUFFIX,*.edu.mo,Macau
 # > Gambling
