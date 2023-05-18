@@ -1,33 +1,33 @@
 # Macau Rules
 # > Govgerments
-DOMAIN-SUFFIX,*.gov.mo,Macau
+HOST-SUFFIX,gov.mo,Macau
 # > Banks
-DOMAIN-SUFFIX,*.bocmacau.com,Macau
-DOMAIN-SUFFIX,*.bankofchina.com,Macau
-DOMAIN-SUFFIX,*.icbc.com.cn,Macau
-DOMAIN-SUFFIX,*.icbc.com.mo,Macau
-DOMAIN-SUFFIX,*.taifungbank.com,Macau
-DOMAIN-SUFFIX,*.ocbcwhmac.com,Macau
-DOMAIN-SUFFIX,*.bcm.com.mo,Macau
-DOMAIN-SUFFIX,*.bnu.com.mo,Macau
-DOMAIN-SUFFIX,*.ccb.com,Macau
-DOMAIN-SUFFIX,*.wlsec.com,Macau
-DOMAIN-SUFFIX,*.wlbank.com.mo,Macau
-DOMAIN-SUFFIX,*.mdb.com.mo,Macau
-DOMAIN-SUFFIX,*.hangseng.com,Macau
-DOMAIN-SUFFIX,*.hsbc.com.mo,Macau
-DOMAIN-SUFFIX,*.cgbchina.mo.cn,Macau
-DOMAIN-SUFFIX,*.antbank.mo,Macau
+HOST-SUFFIX,bocmacau.com,Macau
+HOST-SUFFIX,bankofchina.com,Macau
+HOST-SUFFIX,icbc.com.cn,Macau
+HOST-SUFFIX,icbc.com.mo,Macau
+HOST-SUFFIX,taifungbank.com,Macau
+HOST-SUFFIX,ocbcwhmac.com,Macau
+HOST-SUFFIX,bcm.com.mo,Macau
+HOST-SUFFIX,bnu.com.mo,Macau
+HOST-SUFFIX,ccb.com,Macau
+HOST-SUFFIX,wlsec.com,Macau
+HOST-SUFFIX,wlbank.com.mo,Macau
+HOST-SUFFIX,mdb.com.mo,Macau
+HOST-SUFFIX,hangseng.com,Macau
+HOST-SUFFIX,hsbc.com.mo,Macau
+HOST-SUFFIX,cgbchina.mo.cn,Macau
+HOST-SUFFIX,antbank.mo,Macau
 DOMAIN-SUFFIX,3debspay.boc.cn,Macau
 # > Schools
-DOMAIN-SUFFIX,*.edu.mo,Macau
+HOST-SUFFIX,edu.mo,Macau
 # > Gambling
-DOMAIN-SUFFIX,*.macau-slot.com,Macau
+HOST-SUFFIX,macau-slot.com,Macau
 # > Telecom
-DOMAIN-SUFFIX,*.ctm.net,Macau
-DOMAIN-SUFFIX,*.three.com.mo,Macau
-DOMAIN-SUFFIX,*.1888.com.mo,Macau
-DOMAIN-SUFFIX,*.chinatelecom.com.mo,Macau
+HOST-SUFFIX,ctm.net,Macau
+HOST-SUFFIX,three.com.mo,Macau
+HOST-SUFFIX,1888.com.mo,Macau
+HOST-SUFFIX,chinatelecom.com.mo,Macau
 # > Unknown Company
-DOMAIN-SUFFIX,*.com.mo,Macau
-DOMAIN-SUFFIX,*.mo,Macau
+HOST-SUFFIX,com.mo,Macau
+HOST-SUFFIX,mo,Macau

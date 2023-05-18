@@ -1,29 +1,29 @@
 # JP Rules
 # (Games)
 # > Cygames
-DOMAIN-SUFFIX,cygames.jp,Japan
+HOST-SUFFIX,cygames.jp,Japan
 # (Video)
 # > AbemaTV
 USER-AGENT,AbemaTV*,JP
-DOMAIN-SUFFIX,abema.io,Japan
-DOMAIN-SUFFIX,abema.tv,Japan
-DOMAIN-SUFFIX,ameba.jp,Japan
-DOMAIN-SUFFIX,hayabusa.io,Japan
+HOST-SUFFIX,abema.io,Japan
+HOST-SUFFIX,abema.tv,Japan
+HOST-SUFFIX,ameba.jp,Japan
+HOST-SUFFIX,hayabusa.io,Japan
 DOMAIN-KEYWORD,abematv.akamaized.net,Japan
 # > DMM
-DOMAIN-SUFFIX,dmm.co.jp,Japan
-DOMAIN-SUFFIX,dmm.com,Japan
-DOMAIN-SUFFIX,dmm-extension.com,Japan
+HOST-SUFFIX,dmm.co.jp,Japan
+HOST-SUFFIX,dmm.com,Japan
+HOST-SUFFIX,dmm-extension.com,Japan
 # > Hulu / フールー
-DOMAIN-SUFFIX,happyon.jp,Japan
-DOMAIN-SUFFIX,hjholdings.jp,Japan
-DOMAIN-SUFFIX,hulu.jp,Japan
+HOST-SUFFIX,happyon.jp,Japan
+HOST-SUFFIX,hjholdings.jp,Japan
+HOST-SUFFIX,hulu.jp,Japan
 # > niconico
 USER-AGENT,Niconico*,Japan
-DOMAIN-SUFFIX,dmc.nico,Japan
-DOMAIN-SUFFIX,nicovideo.jp,Japan
-DOMAIN-SUFFIX,nimg.jp,Japan
+HOST-SUFFIX,dmc.nico,Japan
+HOST-SUFFIX,nicovideo.jp,Japan
+HOST-SUFFIX,nimg.jp,Japan
 # > TVer
 USER-AGENT,TVer-Release*,Japan
-DOMAIN-SUFFIX,tver.jp,Japan
+HOST-SUFFIX,tver.jp,Japan
 DOMAIN,edge.api.brightcove.com,Japan
